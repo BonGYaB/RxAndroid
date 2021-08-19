@@ -1,2 +1,3 @@
 # RxAndroid
-A sample of RxAndroid, used it with view.
+###Android & Kotlin
+#####A sample of RxAndroid, used it with view.
